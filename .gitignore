@@ -1,0 +1,15 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# STM32CubeIDE / Eclipse local files
+*.launch
+.metadata/
+.settings/language.settings.xml
+
+# STM32CubeMX temporary files
+MXTmpFiles/
+*.ioc_bkp
+
+# Host unit test build
+Tests/build/
